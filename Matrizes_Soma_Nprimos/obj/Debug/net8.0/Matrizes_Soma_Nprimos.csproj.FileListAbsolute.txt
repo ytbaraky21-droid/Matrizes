@@ -1,0 +1,15 @@
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\bin\Debug\net8.0\Matrizes_Soma_Nprimos.exe
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\bin\Debug\net8.0\Matrizes_Soma_Nprimos.deps.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\bin\Debug\net8.0\Matrizes_Soma_Nprimos.runtimeconfig.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\bin\Debug\net8.0\Matrizes_Soma_Nprimos.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\bin\Debug\net8.0\Matrizes_Soma_Nprimos.pdb
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\obj\Debug\net8.0\Matrizes_Soma_Nprimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\obj\Debug\net8.0\Matrizes_Soma_Nprimos.AssemblyInfoInputs.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\obj\Debug\net8.0\Matrizes_Soma_Nprimos.AssemblyInfo.cs
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\obj\Debug\net8.0\Matrizes_Soma_Nprimos.csproj.CoreCompileInputs.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\obj\Debug\net8.0\Matrizes_Soma_Nprimos.sourcelink.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\obj\Debug\net8.0\Matrizes_Soma_Nprimos.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\obj\Debug\net8.0\refint\Matrizes_Soma_Nprimos.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\obj\Debug\net8.0\Matrizes_Soma_Nprimos.pdb
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\obj\Debug\net8.0\Matrizes_Soma_Nprimos.genruntimeconfig.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matrizes_Soma_Nprimos\Matrizes_Soma_Nprimos\obj\Debug\net8.0\ref\Matrizes_Soma_Nprimos.dll

@@ -1,0 +1,15 @@
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\bin\Debug\net8.0\Matriz_Elementos_Pares.exe
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\bin\Debug\net8.0\Matriz_Elementos_Pares.deps.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\bin\Debug\net8.0\Matriz_Elementos_Pares.runtimeconfig.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\bin\Debug\net8.0\Matriz_Elementos_Pares.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\bin\Debug\net8.0\Matriz_Elementos_Pares.pdb
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\obj\Debug\net8.0\Matriz_Elementos_Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\obj\Debug\net8.0\Matriz_Elementos_Pares.AssemblyInfoInputs.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\obj\Debug\net8.0\Matriz_Elementos_Pares.AssemblyInfo.cs
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\obj\Debug\net8.0\Matriz_Elementos_Pares.csproj.CoreCompileInputs.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\obj\Debug\net8.0\Matriz_Elementos_Pares.sourcelink.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\obj\Debug\net8.0\Matriz_Elementos_Pares.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\obj\Debug\net8.0\refint\Matriz_Elementos_Pares.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\obj\Debug\net8.0\Matriz_Elementos_Pares.pdb
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\obj\Debug\net8.0\Matriz_Elementos_Pares.genruntimeconfig.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Elementos_Pares\Matriz_Elementos_Pares\obj\Debug\net8.0\ref\Matriz_Elementos_Pares.dll
