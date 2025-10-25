@@ -1,0 +1,15 @@
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\bin\Debug\net8.0\Matriz_Nº_Reais.exe
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\bin\Debug\net8.0\Matriz_Nº_Reais.deps.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\bin\Debug\net8.0\Matriz_Nº_Reais.runtimeconfig.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\bin\Debug\net8.0\Matriz_Nº_Reais.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\bin\Debug\net8.0\Matriz_Nº_Reais.pdb
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\obj\Debug\net8.0\Matriz_Nº_Reais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\obj\Debug\net8.0\Matriz_Nº_Reais.AssemblyInfoInputs.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\obj\Debug\net8.0\Matriz_Nº_Reais.AssemblyInfo.cs
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\obj\Debug\net8.0\Matriz_Nº_Reais.csproj.CoreCompileInputs.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\obj\Debug\net8.0\Matriz_Nº_Reais.sourcelink.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\obj\Debug\net8.0\Matriz_Nº_Reais.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\obj\Debug\net8.0\refint\Matriz_Nº_Reais.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\obj\Debug\net8.0\Matriz_Nº_Reais.pdb
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\obj\Debug\net8.0\Matriz_Nº_Reais.genruntimeconfig.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Nº_Reais\Matriz_Nº_Reais\obj\Debug\net8.0\ref\Matriz_Nº_Reais.dll

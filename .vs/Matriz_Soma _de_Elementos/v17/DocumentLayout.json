@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarad.SAKURAUHIHA2024\\source\\repos\\Matriz_Soma _de_Elementos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B74F65D5-E383-420A-B945-21CE2DA70C58}|Matriz_Soma _de_Elementos\\Matriz_Soma _de_Elementos.csproj|c:\\users\\sarad.sakurauhiha2024\\source\\repos\\matriz_soma _de_elementos\\matriz_soma _de_elementos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B74F65D5-E383-420A-B945-21CE2DA70C58}|Matriz_Soma _de_Elementos\\Matriz_Soma _de_Elementos.csproj|solutionrelative:matriz_soma _de_elementos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sarad.SAKURAUHIHA2024\\source\\repos\\Matriz_Soma _de_Elementos\\Matriz_Soma _de_Elementos\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz_Soma _de_Elementos\\Program.cs",
+              "ToolTip": "C:\\Users\\sarad.SAKURAUHIHA2024\\source\\repos\\Matriz_Soma _de_Elementos\\Matriz_Soma _de_Elementos\\Program.cs",
+              "RelativeToolTip": "Matriz_Soma _de_Elementos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T20:08:55.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\bin\Debug\net8.0\Matriz_Soma_Números_Reais.exe
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\bin\Debug\net8.0\Matriz_Soma_Números_Reais.deps.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\bin\Debug\net8.0\Matriz_Soma_Números_Reais.runtimeconfig.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\bin\Debug\net8.0\Matriz_Soma_Números_Reais.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\bin\Debug\net8.0\Matriz_Soma_Números_Reais.pdb
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\obj\Debug\net8.0\Matriz_Soma_Números_Reais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\obj\Debug\net8.0\Matriz_Soma_Números_Reais.AssemblyInfoInputs.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\obj\Debug\net8.0\Matriz_Soma_Números_Reais.AssemblyInfo.cs
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\obj\Debug\net8.0\Matriz_Soma_Números_Reais.csproj.CoreCompileInputs.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\obj\Debug\net8.0\Matriz_Soma_Números_Reais.sourcelink.json
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\obj\Debug\net8.0\Matriz_Soma_Números_Reais.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\obj\Debug\net8.0\refint\Matriz_Soma_Números_Reais.dll
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\obj\Debug\net8.0\Matriz_Soma_Números_Reais.pdb
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\obj\Debug\net8.0\Matriz_Soma_Números_Reais.genruntimeconfig.cache
+C:\Users\sarad.SAKURAUHIHA2024\source\repos\Matriz_Soma_Números_Reais\Matriz_Soma_Números_Reais\obj\Debug\net8.0\ref\Matriz_Soma_Números_Reais.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Matriz_Soma_Números_Reais/1.0.0": {
+        "runtime": {
+          "Matriz_Soma_Números_Reais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matriz_Soma_Números_Reais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

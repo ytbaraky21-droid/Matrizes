@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matriz_Nº_Reais", "Matriz_Nº_Reais\Matriz_Nº_Reais.csproj", "{7CCA8953-E252-45C1-8644-D4BFF509873B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CCA8953-E252-45C1-8644-D4BFF509873B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCA8953-E252-45C1-8644-D4BFF509873B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCA8953-E252-45C1-8644-D4BFF509873B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCA8953-E252-45C1-8644-D4BFF509873B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEFD3FF3-1984-4204-BCAC-C94410E07B17}
+	EndGlobalSection
+EndGlobal
